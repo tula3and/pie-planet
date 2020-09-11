@@ -1,6 +1,6 @@
 ## Pie Planet
 
-Pie Planet is an adventure game made with Unity2D. This game is based on a exploration with some components of puzzle-solving. In [this link](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=), you can check our design document (written in Korean) and the video clip of this game.
+Pie Planet is an adventure game made with Unity2D. (Unity version: 2019.3.9f1) This game is based on a exploration with some components of puzzle-solving. In [this link](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=), you can check our design document (written in Korean) and the video clip of this game.
 
 ---
 
