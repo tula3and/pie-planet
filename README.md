@@ -18,7 +18,7 @@ Pie Planet is an adventure game made with Unity2D. (Unity version: 2019.3.9f1) T
 - Character designer: 비즈
 - Background designer: Eunhye Kim (김은혜)
 - UI designer: 최서연
-- Composer: 학실
+- Composer: Haksil (학실)
 
 *Programmers*
 
