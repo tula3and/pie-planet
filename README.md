@@ -3,6 +3,14 @@
 Pie Planet is an adventure game made with Unity2D. (Unity version: 2019.3.9f1) This game is based on a exploration with some components of puzzle-solving. In [this link](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=), you can check our design document (written in Korean) and the video clip of this game.
 - May 2020 — July 2020
 - First Unity programming
+- How to play
+  - Download [Unity Personal](https://unity.com/)
+  - `git clone` this repository and open the folder in Unity
+  - File → Build Settings → Build
+  - Open .exe file and enjoy it!
+- Precautions
+  - Bugs exist
+  - Only Korean supported on this game
 - 💬 If you want to ask me about this project, leave questions on [issues](https://github.com/tula3and/pie_planet/issues)!
 
 ---
