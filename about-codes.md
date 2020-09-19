@@ -1,9 +1,9 @@
 ## About codes of Pie Planet
 
-1. [NPC Image size]
-2. [Structure of conversation window]
-3. [Small tips]
-4. [Errors]
+1. [NPC Image size](https://github.com/tula3and/pie_planet/blob/master/about-codes.md#npc-image-size)
+2. [Structure of conversation window](https://github.com/tula3and/pie_planet/blob/master/about-codes.md#structure-of-conversation-window)
+3. [Small tips](https://github.com/tula3and/pie_planet/blob/master/about-codes.md#small-tips)
+4. [Errors](https://github.com/tula3and/pie_planet/blob/master/about-codes.md#errors)
 
 ## NPC Image size
 
